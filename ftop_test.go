@@ -23,7 +23,7 @@ func TestFtop(t *testing.T) {
 }
 
 func ExampleFqdn() {
-	fmt.Println(ftop("borax.fra.hp.com"))
+	fmt.Println(ftop("muir.remulac.fr"))
 	// Output:
-	// com/hp/fra/borax
+	// fr/remulac/muir
 }
